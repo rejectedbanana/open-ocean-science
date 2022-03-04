@@ -56,6 +56,16 @@
                 "location": "Morro Bay, California, USA",
                 "description": "An ancient volcanic plug formed by magma, this 581-foot rock is known as a harbor entrance landmark (also a place which Chris visited often when he was young)."
             }
-        }        
+        }, 
+        {
+            "type": "Feature",
+            "properties": {
+              "name":"Sea-Bird Scientific", 
+              "type": "Organization",
+              "location":"Bellevue, WA",
+              "description":"Where CTDs are made."
+            },
+            "geometry": {"type": "Point","coordinates": [-122.16004014015198,47.62712912654298]}
+        }
     ]
 }
